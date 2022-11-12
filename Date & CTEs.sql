@@ -1,5 +1,5 @@
 use farmers_market;
-#1.
+#1.)
 select *, month (market_date) as month_, year (market_date) as year_  from vendor_inventory
 
 #2.
